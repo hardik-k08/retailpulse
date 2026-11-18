@@ -1,1 +1,1 @@
-# Retail BI Dashboard - Core Package
+# Retail BI Dashboard - UI Components
